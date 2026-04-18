@@ -11,7 +11,7 @@
 ## ⚙️Tech Stack
 - HTML
 - CSS
-- JavaScript ( Adbanced - in Progress )
+- JavaScript ( Advanced - in Progress )
 - React.js
 - Node.js
 - Express.js
