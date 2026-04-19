@@ -3,7 +3,7 @@
 - 💻 Skilled in HTML, CSS, JavaScript.
 - 📚 Currently Focusing On Advanced JavaScript.
 - 🌀 Next Step : Learning React.js.
-- 🔮 Future goal: Full Stack Developer.
+- 🔮 Future goal: Full Stack Web Developer.
 - 🌱 Planning to learn Node.js, Express.js & Databases
 - 🤝 Open to collaborating on Web Development Projects.
 
